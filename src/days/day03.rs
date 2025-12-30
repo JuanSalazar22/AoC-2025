@@ -18,7 +18,10 @@ fn part2(_input: &str) -> i64 {
 mod tests {
     use super::*;
 
-    const EXAMPLE: &str = "";
+    const EXAMPLE: &str = "987654321111111
+        811111111111119
+        234234234234278
+        818181911112111";
 
     #[test]
     fn test_part1() {
